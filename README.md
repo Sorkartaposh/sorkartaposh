@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Taposh</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sorkartaposh&label=Profile%20views&color=0e75b6&style=flat" alt="sorkartaposh" /> </p>
+
 - 🔭 I’m currently working on **local marketplace**
 
 - 🌱 I’m currently learning **react, tailwind**
