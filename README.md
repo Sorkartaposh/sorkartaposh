@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **local marketplace**
 
-- 🌱 I’m currently learning **react, tailwind**
-
 - 📫 How to reach me **taposhsorkar88@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
